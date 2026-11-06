@@ -1,0 +1,5 @@
+Producto: YOGURT
+Precio: 2.0
+Cantidad: 7
+Valor total: 14.0
+
