@@ -1,0 +1,9 @@
+Producto: Torta
+Precio: $15.0
+Cantidad: 6
+Subtotal: $90.0
+Descuento: $0.0
+Total a pagar: $90.0
+
+TOTAL ACUMULADO DE VENTAS: $90.0
+
